@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2C5B0DA429F51D2E007EB6D3 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C5B0DA329F51D2E007EB6D3 /* CircleImage.swift */; };
 		2CB80ACB29F515BD00A53D64 /* Creating_and_Combining_ViewsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CB80ACA29F515BD00A53D64 /* Creating_and_Combining_ViewsApp.swift */; };
 		2CB80ACD29F515BD00A53D64 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CB80ACC29F515BD00A53D64 /* ContentView.swift */; };
 		2CB80ACF29F515BF00A53D64 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2CB80ACE29F515BF00A53D64 /* Assets.xcassets */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2C5B0DA329F51D2E007EB6D3 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		2CB80AC729F515BD00A53D64 /* Creating_and_Combining_Views.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Creating_and_Combining_Views.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2CB80ACA29F515BD00A53D64 /* Creating_and_Combining_ViewsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Creating_and_Combining_ViewsApp.swift; sourceTree = "<group>"; };
 		2CB80ACC29F515BD00A53D64 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -96,6 +98,7 @@
 			children = (
 				2CB80ACA29F515BD00A53D64 /* Creating_and_Combining_ViewsApp.swift */,
 				2CB80ACC29F515BD00A53D64 /* ContentView.swift */,
+				2C5B0DA329F51D2E007EB6D3 /* CircleImage.swift */,
 				2CB80ACE29F515BF00A53D64 /* Assets.xcassets */,
 				2CB80AD029F515BF00A53D64 /* Preview Content */,
 			);
@@ -259,6 +262,7 @@
 			files = (
 				2CB80ACD29F515BD00A53D64 /* ContentView.swift in Sources */,
 				2CB80ACB29F515BD00A53D64 /* Creating_and_Combining_ViewsApp.swift in Sources */,
+				2C5B0DA429F51D2E007EB6D3 /* CircleImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
